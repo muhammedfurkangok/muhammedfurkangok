@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center"> I'm a freshman computer science student and interested Game Development </h3>
 
-- 🌱 I’m currently learning **Unity,C#,C**
+- 🌱 I’m currently learning **Unity,C#,C,C++**
 
 - 📫 How to reach me **gkkangk@gmail.com**
+
+## LeetCode Profile Check out my [LeetCode solutions and progress](https://leetcode.com/u/L0fs/)!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
