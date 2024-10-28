@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **gkkangk@gmail.com**
 
-## LeetCode Profile Check out my [LeetCode solutions and progress](https://leetcode.com/u/L0fs/)!
+- ⚡ LeetCode Profile  [LeetCode solutions and progress](https://leetcode.com/u/L0fs/)!
 
 
 <h3 align="left">Connect with me:</h3>
