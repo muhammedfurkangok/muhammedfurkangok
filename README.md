@@ -1,6 +1,7 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8bb89799-0bc5-425d-9543-ec16038a5462/dcxct6y-c495ff90-3295-423e-b6ff-92a815feb79b.png/v1/fill/w_1192,h_670,q_70,strp/unity_wallpaper_by_neninja_dcxct6y-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcLzhiYjg5Nzk5LTBiYzUtNDI1ZC05NTQzLWVjMTYwMzhhNTQ2MlwvZGN4Y3Q2eS1jNDk1ZmY5MC0zMjk1LTQyM2UtYjZmZi05MmE4MTVmZWI3OWIucG5nIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.UtZZqmHKaXG7fV_nt6YsbWEzNxWTVYx3ABOJaxj4UIM)
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center"> I'm a freshman computer science student and interested Game Development </h3>
+<h3 align="center"> I'm a sophomore computer science student and interested Game Development </h3>
+
 
 - 🌱 I’m currently learning **Unity,C#,C,C++**
 
