@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center"> I'm a sophomore computer science student and interested Game Development </h3>
 
 
