@@ -8,7 +8,7 @@
 
 - ⚡ My LeetCode [Profile](https://leetcode.com/u/L0fs/)!
 
-- 💻 My Portfolio [Profile]([https://leetcode.com/u/L0fs/](https://muhammedfurkangok.github.io/personal-portfolio/))!
+- 💻 My Portfolio [Profile](https://muhammedfurkangok.github.io/personal-portfolio/)!
 
 
 <h3 align="left">Connect with me:</h3>
