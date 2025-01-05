@@ -2,13 +2,13 @@
 <h3 align="center"> I'm a sophomore computer science student and interested Game Development </h3>
 
 
-- 🌱 I’m currently learning **Unity,C#,C,C++**
+- 🌱 I’m currently learning **Unity, C#, C, C++**
 
-- 📫 How to reach me **gkkangk@gmail.com**
+- 📫 How to reach me: [gkkangk@gmail.com](mailto:gkkangk@gmail.com)
 
-- ⚡ My LeetCode [Profile](https://leetcode.com/u/L0fs/)!
+- ⚡ My LeetCode [Profile](https://leetcode.com/u/L0fs/)
 
-- 💻 My  [Portfolio](https://muhammedfurkangok.github.io/personal-portfolio/)!
+- 💻 My [Portfolio](https://muhammedfurkangok.github.io/personal-portfolio/)
 
 
 <h3 align="left">Connect with me:</h3>
