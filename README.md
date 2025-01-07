@@ -10,6 +10,8 @@
 
 - 💻 My [Portfolio](https://muhammedfurkangok.github.io/personal-portfolio/)
 
+- 📖 My [Medium](https://medium.com/@gkkangk)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
