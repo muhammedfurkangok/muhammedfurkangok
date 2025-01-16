@@ -2,7 +2,7 @@
 <h3 align="center"> I'm a sophomore computer science student and interested Game Development </h3>
 
 
-- 🌱 I’m currently learning **Unity, C#, C++*,C*
+- 🌱 I’m currently learning Unity3D, C#, C++,C
 
 - 📫 How to reach me: [gkkangk@gmail.com](mailto:gkkangk@gmail.com)
 
