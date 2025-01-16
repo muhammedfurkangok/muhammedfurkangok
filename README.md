@@ -10,7 +10,7 @@
 
 - 💻 My [Portfolio](https://muhammedfurkangok.github.io/personal-portfolio/)
 
-- 📖 My [Medium](https://medium.com/@gkkangk)(I’ve just started and currently have only one post)
+- 📖 My [Medium](https://medium.com/@gkkangk) (I’ve just started and currently have only one post)
 
 
 <h3 align="left">Connect with me:</h3>
