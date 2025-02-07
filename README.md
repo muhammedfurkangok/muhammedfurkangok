@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center"> I'm a sophomore computer science student and interested Game Development </h3>
 
-- 🌱 I’m currently learning Unity3D, C#, C++,C
-
-- 📫 How to reach me: [gkkangk@gmail.com](mailto:gkkangk@gmail.com)
+- 🌱 I’m currently learning Unity3D, C#, C++
 
 - ⚡ My LeetCode [Profile](https://leetcode.com/u/L0fs/)
 
