@@ -7,6 +7,8 @@
 
 - 💻 My [Portfolio](https://muhammedfurkangok.github.io/personal-portfolio/)
 
+- My [itch.io](https://l0fs.itch.io/)
+
 - 📖 My [Medium](https://medium.com/@gkkangk) (I’ve just started and currently have only one post)
 
 <h3 align="left">Connect with me:</h3>
