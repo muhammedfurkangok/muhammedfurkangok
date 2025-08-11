@@ -21,9 +21,6 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal engine" width="40" height="40"/> 
-  </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
@@ -33,8 +30,11 @@
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="opengl" width="40" height="40"/> 
   </a>
+    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal engine" width="40" height="40"/> 
+  </a> 
   <a href="https://www.shadertoy.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/ShaderToy_Logo.svg" alt="shader programming" width="40" height="40"/> 
+    <img src="https://camo.githubusercontent.com/0fc36232c33f2c9b1974dd12d3e237003b196d831cbf363244921b9fe0fd3e34/68747470733a2f2f736c657665737175652e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f736c657665737175652f7368616465722f312e312e352f313631323736343633343930312f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" alt="shader programming" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
