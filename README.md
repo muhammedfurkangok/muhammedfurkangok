@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I'm a junior computer science student and interested in Game Development</h3>
+<h1 align="center">Hi, I'm Furkan</h1>
+<h3 align="center">"Focused on game development, with expertise in gameplay programming.</h3>
 
 - ⚡ My LeetCode [Profile](https://leetcode.com/u/L0fs/)
 
